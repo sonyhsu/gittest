@@ -141,6 +141,33 @@ Test_Cmake/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Test_Cmake.dir\build.make CMakeFiles/Test_Cmake.dir/build
 .PHONY : Test_Cmake/fast
 
+APP_src/AppTest1.obj: APP_src/AppTest1.cpp.obj
+
+.PHONY : APP_src/AppTest1.obj
+
+# target to build an object file
+APP_src/AppTest1.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Test_Cmake.dir\build.make CMakeFiles/Test_Cmake.dir/APP_src/AppTest1.cpp.obj
+.PHONY : APP_src/AppTest1.cpp.obj
+
+APP_src/AppTest1.i: APP_src/AppTest1.cpp.i
+
+.PHONY : APP_src/AppTest1.i
+
+# target to preprocess a source file
+APP_src/AppTest1.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Test_Cmake.dir\build.make CMakeFiles/Test_Cmake.dir/APP_src/AppTest1.cpp.i
+.PHONY : APP_src/AppTest1.cpp.i
+
+APP_src/AppTest1.s: APP_src/AppTest1.cpp.s
+
+.PHONY : APP_src/AppTest1.s
+
+# target to generate assembly for a file
+APP_src/AppTest1.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Test_Cmake.dir\build.make CMakeFiles/Test_Cmake.dir/APP_src/AppTest1.cpp.s
+.PHONY : APP_src/AppTest1.cpp.s
+
 main.obj: main.cpp.obj
 
 .PHONY : main.obj
@@ -177,6 +204,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... Test_Cmake
+	@echo ... APP_src/AppTest1.obj
+	@echo ... APP_src/AppTest1.i
+	@echo ... APP_src/AppTest1.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

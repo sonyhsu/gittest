@@ -1,10 +1,20 @@
 #include <stdio.h>
-int main()
+#include <iostream>
+#include "APP_include/AppTest1.h"
+
+using namespace std;
+
+int main(void)
 {
   int i;
-  printf("Hello, World!\n");
-  for(i=0;i<2;i++){
-    printf("%d\n",i);
+  cout << "Hello, world!" << endl;
+
+  for(i=0;i<3;i++){
+    cout << i << endl;
   }
+
+  myprint();
+  system("pause");
+  
   return 0;
 }

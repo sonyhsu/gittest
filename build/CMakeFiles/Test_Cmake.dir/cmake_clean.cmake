@@ -1,4 +1,5 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/Test_Cmake.dir/APP_src/AppTest1.cpp.obj"
   "CMakeFiles/Test_Cmake.dir/main.cpp.obj"
   "Test_Cmake.exe"
   "Test_Cmake.exe.manifest"

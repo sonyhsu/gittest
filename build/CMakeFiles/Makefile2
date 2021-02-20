@@ -92,12 +92,12 @@ clean: CMakeFiles/Test_Cmake.dir/clean
 CMakeFiles/Test_Cmake.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Test_Cmake.dir\build.make CMakeFiles/Test_Cmake.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Test_Cmake.dir\build.make CMakeFiles/Test_Cmake.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="C:\Users\poqoi\OneDrive\project\opencv project for c\build\CMakeFiles" --progress-num=1,2 "Built target Test_Cmake"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="C:\Users\poqoi\OneDrive\project\opencv project for c\build\CMakeFiles" --progress-num=1,2,3 "Built target Test_Cmake"
 .PHONY : CMakeFiles/Test_Cmake.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Test_Cmake.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\poqoi\OneDrive\project\opencv project for c\build\CMakeFiles" 2
+	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\poqoi\OneDrive\project\opencv project for c\build\CMakeFiles" 3
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/Test_Cmake.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\poqoi\OneDrive\project\opencv project for c\build\CMakeFiles" 0
 .PHONY : CMakeFiles/Test_Cmake.dir/rule

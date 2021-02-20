@@ -6,7 +6,11 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/poqoi/OneDrive/project/opencv project for c/main.cpp
-stdio.h
+C:/Users/poqoi/OneDrive/project/opencv project for c/APP_include/AppTest1.h
+iostream
 -
+
+C:/Users/poqoi/OneDrive/project/opencv project for c/APP_src/AppTest1.cpp
+../APP_include/AppTest1.h
+C:/Users/poqoi/OneDrive/project/opencv project for c/APP_include/AppTest1.h
 
