@@ -1,0 +1,3 @@
+C:/Users/poqoi/OneDrive/project/opencv project for c/build/CMakeFiles/rebuild_cache.dir
+C:/Users/poqoi/OneDrive/project/opencv project for c/build/CMakeFiles/Test_Cmake.dir
+C:/Users/poqoi/OneDrive/project/opencv project for c/build/CMakeFiles/edit_cache.dir

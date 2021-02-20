@@ -2,7 +2,7 @@
 int main()
 {
   int i;
-  printf("Hello, World!");
+  printf("Hello, World!\n");
   for(i=0;i<2;i++){
     printf("%d\n",i);
   }
