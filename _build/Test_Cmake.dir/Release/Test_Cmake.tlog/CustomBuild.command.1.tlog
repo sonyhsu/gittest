@@ -1,0 +1,10 @@
+^C:\USERS\POQOI\ONEDRIVE\PROJECT\OPENCV PROJECT FOR C\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/poqoi/OneDrive/project/opencv project for c" "-BC:/Users/poqoi/OneDrive/project/opencv project for c/build" --check-stamp-file "C:/Users/poqoi/OneDrive/project/opencv project for c/build/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

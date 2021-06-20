@@ -12,6 +12,8 @@ set(CMAKE_CXX_COMPILER_ID "GNU")
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH
   "../APP_include"
+  "C:/Users/poqoi/Downloads/OpenCV-MinGW-Build-OpenCV-3.4.8-x64/include"
+  "C:/Users/poqoi/Downloads/OpenCV-MinGW-Build-OpenCV-3.4.8-x64/include/opencv"
   )
 
 # Targets to which this target links.

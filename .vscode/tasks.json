@@ -2,14 +2,33 @@
 	"version": "2.0.0",
 	"tasks": [
 		{
-			"type": "cppbuild",
+			"type": "shell",//"cppbuild",
 			"label": "C/C++: g++.exe 建置使用中檔案",
-			"command": "C:\\Program Files\\mingw-w64\\x86_64-8.1.0-win32-seh-rt_v6-rev0\\mingw64\\bin\\g++.exe",
+			"command": "C:\\Program Files\\mingw-w64\\x86_64-8.1.0-posix-seh-rt_v6-rev0\\mingw64\\bin\\g++.exe",
 			"args": [
 				"-g",
 				"${file}",
 				"-o",
-				"${fileDirname}\\${fileBasenameNoExtension}.exe"
+				"${fileDirname}\\${fileBasenameNoExtension}.exe",
+                "-I","C:\\Users\\poqoi\\Downloads\\OpenCV-MinGW-Build-OpenCV-3.4.8-x64\\include",
+                "-L","C:\\Users\\poqoi\\Downloads\\OpenCV-MinGW-Build-OpenCV-3.4.8-x64\\x64\\mingw\\bin",
+                "-l","libopencv_calib3d348",
+                "-llibopencv_core348",
+                "-llibopencv_dnn348",
+                "-llibopencv_features2d348",
+                "-llibopencv_flann348",
+                "-llibopencv_highgui348",
+                "-llibopencv_imgcodecs348",
+                "-llibopencv_imgproc348",
+                "-llibopencv_ml348",
+                "-llibopencv_objdetect348",
+                "-llibopencv_photo348",
+                "-llibopencv_shape348",
+                "-llibopencv_stitching348",
+                "-llibopencv_superres348",
+                "-llibopencv_video348",
+                "-llibopencv_videoio348",
+                "-llibopencv_videostab348"				
 			],
 			"options": {
 				"cwd": "${workspaceFolder}"
@@ -18,7 +37,7 @@
 				"$gcc"
 			],
 			"group": "build",
-			"detail": "編譯器: \"C:\\Program Files\\mingw-w64\\x86_64-8.1.0-win32-seh-rt_v6-rev0\\mingw64\\bin\\g++.exe\""
+			"detail": "編譯器: \"C:\\Program Files\\mingw-w64\\x86_64-8.1.0-posix-seh-rt_v6-rev0\\mingw64\\bin\\g++.exe\""
 		}
 	]
 }

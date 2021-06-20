@@ -1,12 +1,12 @@
 [
 {
   "directory": "C:/Users/poqoi/OneDrive/project/opencv project for c/build",
-  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-W\\mingw64\\bin\\G__~1.EXE  @CMakeFiles/Test_Cmake.dir/includes_CXX.rsp  -g -g -o CMakeFiles\\Test_Cmake.dir\\APP_src\\AppTest1.cpp.obj -c \"C:\\Users\\poqoi\\OneDrive\\project\\opencv project for c\\APP_src\\AppTest1.cpp\"",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\G__~1.EXE  @CMakeFiles/Test_Cmake.dir/includes_CXX.rsp  -g -O3 -DNDEBUG -o CMakeFiles\\Test_Cmake.dir\\APP_src\\AppTest1.cpp.obj -c \"C:\\Users\\poqoi\\OneDrive\\project\\opencv project for c\\APP_src\\AppTest1.cpp\"",
   "file": "C:/Users/poqoi/OneDrive/project/opencv project for c/APP_src/AppTest1.cpp"
 },
 {
   "directory": "C:/Users/poqoi/OneDrive/project/opencv project for c/build",
-  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-W\\mingw64\\bin\\G__~1.EXE  @CMakeFiles/Test_Cmake.dir/includes_CXX.rsp  -g -g -o CMakeFiles\\Test_Cmake.dir\\main.cpp.obj -c \"C:\\Users\\poqoi\\OneDrive\\project\\opencv project for c\\main.cpp\"",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\G__~1.EXE  @CMakeFiles/Test_Cmake.dir/includes_CXX.rsp  -g -O3 -DNDEBUG -o CMakeFiles\\Test_Cmake.dir\\main.cpp.obj -c \"C:\\Users\\poqoi\\OneDrive\\project\\opencv project for c\\main.cpp\"",
   "file": "C:/Users/poqoi/OneDrive/project/opencv project for c/main.cpp"
 }
 ]

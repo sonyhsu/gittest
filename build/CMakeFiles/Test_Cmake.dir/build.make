@@ -79,29 +79,29 @@ CMakeFiles/Test_Cmake.dir/APP_src/AppTest1.cpp.obj: CMakeFiles/Test_Cmake.dir/fl
 CMakeFiles/Test_Cmake.dir/APP_src/AppTest1.cpp.obj: CMakeFiles/Test_Cmake.dir/includes_CXX.rsp
 CMakeFiles/Test_Cmake.dir/APP_src/AppTest1.cpp.obj: ../APP_src/AppTest1.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\poqoi\OneDrive\project\opencv project for c\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Test_Cmake.dir/APP_src/AppTest1.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Test_Cmake.dir\APP_src\AppTest1.cpp.obj -c "C:\Users\poqoi\OneDrive\project\opencv project for c\APP_src\AppTest1.cpp"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Test_Cmake.dir\APP_src\AppTest1.cpp.obj -c "C:\Users\poqoi\OneDrive\project\opencv project for c\APP_src\AppTest1.cpp"
 
 CMakeFiles/Test_Cmake.dir/APP_src/AppTest1.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Test_Cmake.dir/APP_src/AppTest1.cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\poqoi\OneDrive\project\opencv project for c\APP_src\AppTest1.cpp" > CMakeFiles\Test_Cmake.dir\APP_src\AppTest1.cpp.i
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\poqoi\OneDrive\project\opencv project for c\APP_src\AppTest1.cpp" > CMakeFiles\Test_Cmake.dir\APP_src\AppTest1.cpp.i
 
 CMakeFiles/Test_Cmake.dir/APP_src/AppTest1.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Test_Cmake.dir/APP_src/AppTest1.cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\poqoi\OneDrive\project\opencv project for c\APP_src\AppTest1.cpp" -o CMakeFiles\Test_Cmake.dir\APP_src\AppTest1.cpp.s
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\poqoi\OneDrive\project\opencv project for c\APP_src\AppTest1.cpp" -o CMakeFiles\Test_Cmake.dir\APP_src\AppTest1.cpp.s
 
 CMakeFiles/Test_Cmake.dir/main.cpp.obj: CMakeFiles/Test_Cmake.dir/flags.make
 CMakeFiles/Test_Cmake.dir/main.cpp.obj: CMakeFiles/Test_Cmake.dir/includes_CXX.rsp
 CMakeFiles/Test_Cmake.dir/main.cpp.obj: ../main.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\poqoi\OneDrive\project\opencv project for c\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Test_Cmake.dir/main.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Test_Cmake.dir\main.cpp.obj -c "C:\Users\poqoi\OneDrive\project\opencv project for c\main.cpp"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Test_Cmake.dir\main.cpp.obj -c "C:\Users\poqoi\OneDrive\project\opencv project for c\main.cpp"
 
 CMakeFiles/Test_Cmake.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Test_Cmake.dir/main.cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\poqoi\OneDrive\project\opencv project for c\main.cpp" > CMakeFiles\Test_Cmake.dir\main.cpp.i
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\poqoi\OneDrive\project\opencv project for c\main.cpp" > CMakeFiles\Test_Cmake.dir\main.cpp.i
 
 CMakeFiles/Test_Cmake.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Test_Cmake.dir/main.cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\poqoi\OneDrive\project\opencv project for c\main.cpp" -o CMakeFiles\Test_Cmake.dir\main.cpp.s
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\poqoi\OneDrive\project\opencv project for c\main.cpp" -o CMakeFiles\Test_Cmake.dir\main.cpp.s
 
 # Object files for target Test_Cmake
 Test_Cmake_OBJECTS = \
@@ -114,6 +114,23 @@ Test_Cmake_EXTERNAL_OBJECTS =
 Test_Cmake.exe: CMakeFiles/Test_Cmake.dir/APP_src/AppTest1.cpp.obj
 Test_Cmake.exe: CMakeFiles/Test_Cmake.dir/main.cpp.obj
 Test_Cmake.exe: CMakeFiles/Test_Cmake.dir/build.make
+Test_Cmake.exe: C:/Users/poqoi/Downloads/OpenCV-MinGW-Build-OpenCV-3.4.8-x64/x64/mingw/lib/libopencv_dnn348.dll.a
+Test_Cmake.exe: C:/Users/poqoi/Downloads/OpenCV-MinGW-Build-OpenCV-3.4.8-x64/x64/mingw/lib/libopencv_highgui348.dll.a
+Test_Cmake.exe: C:/Users/poqoi/Downloads/OpenCV-MinGW-Build-OpenCV-3.4.8-x64/x64/mingw/lib/libopencv_ml348.dll.a
+Test_Cmake.exe: C:/Users/poqoi/Downloads/OpenCV-MinGW-Build-OpenCV-3.4.8-x64/x64/mingw/lib/libopencv_objdetect348.dll.a
+Test_Cmake.exe: C:/Users/poqoi/Downloads/OpenCV-MinGW-Build-OpenCV-3.4.8-x64/x64/mingw/lib/libopencv_shape348.dll.a
+Test_Cmake.exe: C:/Users/poqoi/Downloads/OpenCV-MinGW-Build-OpenCV-3.4.8-x64/x64/mingw/lib/libopencv_stitching348.dll.a
+Test_Cmake.exe: C:/Users/poqoi/Downloads/OpenCV-MinGW-Build-OpenCV-3.4.8-x64/x64/mingw/lib/libopencv_superres348.dll.a
+Test_Cmake.exe: C:/Users/poqoi/Downloads/OpenCV-MinGW-Build-OpenCV-3.4.8-x64/x64/mingw/lib/libopencv_videostab348.dll.a
+Test_Cmake.exe: C:/Users/poqoi/Downloads/OpenCV-MinGW-Build-OpenCV-3.4.8-x64/x64/mingw/lib/libopencv_calib3d348.dll.a
+Test_Cmake.exe: C:/Users/poqoi/Downloads/OpenCV-MinGW-Build-OpenCV-3.4.8-x64/x64/mingw/lib/libopencv_features2d348.dll.a
+Test_Cmake.exe: C:/Users/poqoi/Downloads/OpenCV-MinGW-Build-OpenCV-3.4.8-x64/x64/mingw/lib/libopencv_flann348.dll.a
+Test_Cmake.exe: C:/Users/poqoi/Downloads/OpenCV-MinGW-Build-OpenCV-3.4.8-x64/x64/mingw/lib/libopencv_photo348.dll.a
+Test_Cmake.exe: C:/Users/poqoi/Downloads/OpenCV-MinGW-Build-OpenCV-3.4.8-x64/x64/mingw/lib/libopencv_video348.dll.a
+Test_Cmake.exe: C:/Users/poqoi/Downloads/OpenCV-MinGW-Build-OpenCV-3.4.8-x64/x64/mingw/lib/libopencv_videoio348.dll.a
+Test_Cmake.exe: C:/Users/poqoi/Downloads/OpenCV-MinGW-Build-OpenCV-3.4.8-x64/x64/mingw/lib/libopencv_imgcodecs348.dll.a
+Test_Cmake.exe: C:/Users/poqoi/Downloads/OpenCV-MinGW-Build-OpenCV-3.4.8-x64/x64/mingw/lib/libopencv_imgproc348.dll.a
+Test_Cmake.exe: C:/Users/poqoi/Downloads/OpenCV-MinGW-Build-OpenCV-3.4.8-x64/x64/mingw/lib/libopencv_core348.dll.a
 Test_Cmake.exe: CMakeFiles/Test_Cmake.dir/linklibs.rsp
 Test_Cmake.exe: CMakeFiles/Test_Cmake.dir/objects1.rsp
 Test_Cmake.exe: CMakeFiles/Test_Cmake.dir/link.txt

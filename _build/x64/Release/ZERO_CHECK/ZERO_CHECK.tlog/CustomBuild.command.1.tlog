@@ -1,0 +1,10 @@
+^C:\USERS\POQOI\ONEDRIVE\PROJECT\OPENCV PROJECT FOR C\BUILD\CMAKEFILES\DB274B4491CD7211A10F8CE626B1CD92\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/poqoi/OneDrive/project/opencv project for c" "-BC:/Users/poqoi/OneDrive/project/opencv project for c/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/poqoi/OneDrive/project/opencv project for c/build/Test_Cmake.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
